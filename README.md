@@ -1,1 +1,39 @@
-# index.html
+<!DOCTYPE html>
+<html>
+<body>
+
+<body style="background-color:#F7F0FF">
+
+<h1>Mr Boifriend</h1>
+
+<p>R3@L17Y</p>
+
+
+
+<h2>friday, August 15th, 2025</h2>
+
+ <p>we woke up early. i got all the stuff from my room moved out into the living room for the painter so my room would be ready to paint. same with kitchen. worked out at gym. came home & straight jerked it for two hours. went to couples therapy. we got sushi after. came home and we sang songs for like an hour in the empty bedroom with its eeries but fun exho. brought the bed back in and now thats where i lie. sleepy.</p>
+ 
+
+<!--ul>
+
+<li> </li>
+
+</ul>
+
+<!---ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol> --->
+
+</body>
+</html>
+
+
+
+</body>
+</html>
+
+
+
