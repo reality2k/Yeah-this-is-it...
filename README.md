@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <body>
 
@@ -26,10 +26,6 @@
   <li>Tea</li>
   <li>Milk</li>
 </ol> --->
-
-</body>
-</html>
-
 
 
 </body>
